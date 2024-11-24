@@ -6,7 +6,7 @@ Over the past few years, I’ve gained experience across backend and frontend de
 
 These days, I’m working as a Software Developer at 👁️🐝Ⓜ️ iX (IBM iX), helping create solutions that are both efficient and delightful to use.
 
-## 🔭 I’m currently working on...
+### 🔭 I’m currently working on...
 
 Refining my portfolio to showcase impactful projects and skills in React, Flutter, and Spring Boot, tailored for my next career move.
 
