@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I am Vedran
+
+I'm a Full-Stack Developer working remotely from cozy Rovinj, Croatia.
+
+Over the past few years, I’ve gained experience across backend and frontend development, contributing to scalable systems and responsive interfaces. From robust APIs to intuitive user experiences, I love tackling challenges that bring ideas to life.
+
+These days, I’m working as a Software Developer at 👁️🐝Ⓜ️ iX (IBM iX), helping create solutions that are both efficient and delightful to use.
+
+🔭 I’m currently working on...
+Refining my portfolio to showcase impactful projects and skills in React, Flutter, and Spring Boot, tailored for my next career move.
+
+When I’m not coding, you’ll find me shooting hoops, exploring the latest tech trends, or enjoying the natural beauty of the Croatian coast. 🏀📖🌊
 
 <!--
 **NovakVed/NovakVed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
