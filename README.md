@@ -4,7 +4,7 @@ I'm a Full-Stack Developer working remotely from cozy Rovinj, Croatia.
 
 Over the past few years, I’ve gained experience across backend and frontend development, contributing to scalable systems and responsive interfaces. From robust APIs to intuitive user experiences, I love tackling challenges that bring ideas to life.
 
-These days, I’m working as a Software Developer at 👁️🐝Ⓜ️ iX (IBM iX), helping create solutions that are both efficient and delightful to use.
+These days, I’m working as a Software Developer at Emil Frey Digital, helping create solutions that are both efficient and delightful to use.
 
 #### 🔭 I’m currently working on...
 
